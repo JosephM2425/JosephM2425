@@ -8,5 +8,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/josephmurillorodriguez"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josephmurillo" height="30" width="40" /> </a>
-</p>
+<a href="https://www.linkedin.com/in/josephmurillorodriguez/">
+  <img alt="Joseph Murillo LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
