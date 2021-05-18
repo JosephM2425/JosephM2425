@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Costa Rica</h3>
 
 - 📘I’m currently learning ReactJS 😎
-- 💻Skills: Html, Css, Javascript, Ruby, Ruby On Rails, Php, Wordpress, Java, Docker, Amazon S3, Amazon LightSail.
+- 💻Skills: Html, Css, Javascript, Ruby, Ruby On Rails, Php, Wordpress, Java SE, Docker, Amazon S3, Amazon LightSail.
 
 
 <p align="left">
