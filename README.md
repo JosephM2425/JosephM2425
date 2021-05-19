@@ -12,5 +12,5 @@
 </a>
 </p>
 <p align="center">
-![Alt Text](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
+<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="40" height="40" />
 </p>
