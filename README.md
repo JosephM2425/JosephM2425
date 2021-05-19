@@ -12,5 +12,5 @@
 </a>
 </p>
 <p align="center">
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="480" height="480" />
+<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="280" height="280" />
 </p>
