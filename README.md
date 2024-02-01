@@ -17,5 +17,5 @@
 </a>
 </p>
 <p align="center">
-  <img alt="gif" src="https://i.imgur.com/Z9bdip0.gif"/>
+  <img alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhiNGd6N2d1bWo2ejU4MjQxamhjc2Uyb3FqdnhsbTdnNmY5anEwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"/>
 </p>
