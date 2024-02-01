@@ -8,7 +8,7 @@
 
 <p align="left">
 <h3 align="left">Download Spent on IOS</h3>
-<a href="https://apps.apple.com/us/app/spent-expense-tracker/id6449729260" target="_blank">
+<a target="_blank" href="https://apps.apple.com/us/app/spent-expense-tracker/id6449729260">
  Spent App 💰📱
 </a>
 <h3 align="left">Connect with me:</h3>
