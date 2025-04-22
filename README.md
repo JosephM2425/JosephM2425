@@ -11,6 +11,10 @@
 <a target="_blank" href="https://apps.apple.com/us/app/spent-expense-tracker/id6449729260">
  Spent App 💰📱
 </a>
+<h3 align="left">Download Spent on Android</h3>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.cmdctrl.SpentApp&hl=en">
+ Spent App 💰📱
+</a>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/josephmurillorodriguez/">
   <img alt="Joseph Murillo LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
