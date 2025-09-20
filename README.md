@@ -2,8 +2,7 @@
 
 <h3 align="center">A passionate developer from Costa Rica</h3>
 
-- 📘I’m currently learning Flutter 😎
-- 💻Skills: Html, Css, Javascript, Ruby, Ruby On Rails, Php, Wordpress, Java SE, Docker, Amazon S3, Amazon LightSail.
+- 💻Skills: React, Angular, Javascript, Ruby, Ruby On Rails, Php, Wordpress, Docker, AWS
 - Spent Creator 📱 
 
 <p align="left">
